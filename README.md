@@ -1,4 +1,4 @@
-# Line Following Robot 🤖
+# Line Following Robot
 
 An autonomous line-following robot built in C on Arduino that secured 
 **1st place** at the UofT Robotics Competition with a record 
@@ -38,7 +38,7 @@ getting this balance right was what pushed the track time down to
 
 ## Key Engineering Challenges
 - Optimized control algorithm in C to process IR sensor data with 
-  minimal latency — critical at high speeds where reaction time 
+  minimal latency, critical at high speeds where reaction time 
   determines whether the robot stays on track
 - Diagnosed and resolved UART communication failures between sensor 
   array and controller under competition pressure
@@ -46,5 +46,5 @@ getting this balance right was what pushed the track time down to
   cornering aggression and stability
 
 ## Competition
-UofT Robotics Competition — competed against teams across the 
+UofT Robotics Competition, competed against teams across the 
 university, placing 1st with the fastest recorded track time
