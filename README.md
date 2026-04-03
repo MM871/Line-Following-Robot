@@ -15,8 +15,8 @@ An autonomous line-following robot built in C on Arduino that secured
 
 
 ## Results
-- 🏆 **1st place** — UofT Robotics Competition
-- ⏱️ **12-second track time** — fastest recorded run
+-  **1st place** — UofT Robotics Competition
+-  **12-second track time** — fastest recorded run
 
 ## Tech Stack
 - **Microcontroller:** Arduino
