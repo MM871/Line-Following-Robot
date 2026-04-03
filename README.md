@@ -10,6 +10,8 @@ An autonomous line-following robot built in C on Arduino that secured
 <img width="431" height="571" alt="image" src="https://github.com/user-attachments/assets/2bc65aa7-66fc-4391-8c9a-ae17ecabd51b" />
 
 
+DEMO VIDEO: https://drive.google.com/file/d/1ctZx75VyBEgTqT8ETy84PnAQ8FNwwCtq/view?usp=sharing
+
 
 ## Results
 -  **1st place** — UofT Robotics Competition
