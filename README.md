@@ -4,9 +4,6 @@ An autonomous line-following robot built in C on Arduino that secured
 **1st place** at the UofT Robotics Competition with a record 
 **12-second track time**.
 
-> [!NOTE]
-> Source code is not available for this project.
-
 ## Photos
 <img width="434" height="575" alt="image" src="https://github.com/user-attachments/assets/f1ec8cfd-efa9-457e-9db3-a3d8f54e8072" />
 
